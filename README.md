@@ -8,12 +8,17 @@ I work on web applications, local AI tools and the workflows around them: access
 
 ### Start with the work
 
-| Project | What you can inspect |
-| --- | --- |
-| [Different Network Transcribe](https://github.com/steffenkwik/different-network-transcribe) | Public Python desktop application for local voice-note transcription, with source and user documentation. |
-| [Engineering portfolio](https://github.com/steffenkwik/engineering-portfolio) | Six project studies covering full-stack applications, AI integration, automation and client-facing web work. Source availability and verification limits are explicit. |
-| [Reliability patterns](https://github.com/steffenkwik/reliability-patterns) | A standalone, synthetic SQLite event-processing specimen with runnable tests for duplicate delivery, rollback and concurrency. |
-| [Indonesian AI curriculum sentiment dataset](https://github.com/steffenkwik/indonesia-coding-ai-sentiment) | A public research dataset with labeling context, fixed folds and a documented redistribution boundary. |
+**[Different Network Transcribe](https://github.com/steffenkwik/different-network-transcribe)**  
+A Python desktop application for local voice-note transcription. Public source, migrations, packaging and user documentation.
+
+**[Engineering portfolio](https://github.com/steffenkwik/engineering-portfolio)**  
+Six studies on full-stack products, AI integration, automation and client-facing web work, with decisions and verification notes.
+
+**[Reliability patterns](https://github.com/steffenkwik/reliability-patterns)**  
+An independent SQLite specimen with synthetic data and runnable tests for duplicate delivery, rollback and concurrency.
+
+**[Indonesian AI curriculum sentiment dataset](https://github.com/steffenkwik/indonesia-coding-ai-sentiment)**  
+A public research dataset with labeling context, fixed folds and documented publication boundaries.
 
 **Working stack:** TypeScript, Next.js, React, Cloudflare Workers, SQL, Python and Astro.
 
