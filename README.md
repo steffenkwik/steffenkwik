@@ -1,25 +1,14 @@
 # Steffen Kwik
 
-![Full-stack products and AI automation](https://raw.githubusercontent.com/steffenkwik/engineering-portfolio/main/assets/portfolio.svg)
+I build full-stack products and AI automation at Different Network. I work on product requirements, implementation review, and release verification, using AI coding tools as part of development.
 
-**Building full-stack products and AI automation.**
+[![Diagram of the engineering workflow from build through verification to release.](assets/steffen-kwik.svg)](https://steffenkwik.github.io/engineering-portfolio/)
 
-I work on web applications, local AI tools and the workflows around them: access rules, background jobs, exports and failure handling. I use AI coding tools in development and focus on understanding the decisions, checking the behavior and keeping private information private.
+## Selected work
 
-### Start with the work
+- **[Different Network Transcribe](https://github.com/steffenkwik/different-network-transcribe)** — Python desktop application for local audio transcription. Explore the public source, packaging, and documentation.
+- **[Reliability patterns](https://github.com/steffenkwik/reliability-patterns)** — Run the Python and SQLite tests for duplicate delivery, rollback, retries, and concurrent writes. Uses synthetic records.
+- **[Engineering portfolio](https://steffenkwik.github.io/engineering-portfolio/)** — Six case studies and an interactive reliability demo, with [the source on GitHub](https://github.com/steffenkwik/engineering-portfolio).
+- **[Indonesian AI curriculum sentiment dataset](https://github.com/steffenkwik/indonesia-coding-ai-sentiment)** — Research dataset with documented labels, evaluation folds, and contributor attribution.
 
-**[Different Network Transcribe](https://github.com/steffenkwik/different-network-transcribe)**  
-A Python desktop application for local voice-note transcription. Public source, migrations, packaging and user documentation.
-
-**[Engineering portfolio](https://github.com/steffenkwik/engineering-portfolio)**  
-Six studies on full-stack products, AI integration, automation and client-facing web work, with decisions and verification notes.
-
-**[Reliability patterns](https://github.com/steffenkwik/reliability-patterns)**  
-An independent SQLite specimen with synthetic data and runnable tests for duplicate delivery, rollback and concurrency.
-
-**[Indonesian AI curriculum sentiment dataset](https://github.com/steffenkwik/indonesia-coding-ai-sentiment)**  
-A public research dataset with labeling context, fixed folds and documented publication boundaries.
-
-**Working stack:** TypeScript, Next.js, React, Cloudflare Workers, SQL, Python and Astro.
-
-Most product source stays private. The portfolio explains the engineering work without publishing customer data or internal company implementation. The reliability specimen is an independent demonstration, not extracted production code.
+I work primarily with TypeScript, React, Cloudflare Workers, Python, and SQL.

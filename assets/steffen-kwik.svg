@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
+  <title id="title">Build, verify, release</title>
+  <desc id="desc">Three connected stages. Verification is highlighted.</desc>
+  <rect width="1000" height="180" rx="24" fill="#102149"/>
+  <path d="M92 72h816" stroke="#6d88c5" stroke-width="2"/>
+  <path d="M92 72h408" stroke="#a5dfff" stroke-width="2"/>
+  <g fill="#102149" stroke-width="3">
+    <circle cx="92" cy="72" r="9" stroke="#a5dfff"/>
+    <circle cx="908" cy="72" r="9" stroke="#94a7d4"/>
+  </g>
+  <circle cx="500" cy="72" r="17" fill="#164ce4" stroke="#a5dfff" stroke-width="2"/>
+  <path d="m493 72 5 5 9-10" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <g fill="#f4f7ff" font-family="ui-monospace,Consolas,monospace" font-size="38" font-weight="600">
+    <text x="82" y="139">Build</text>
+    <text x="500" y="139" text-anchor="middle">Verify</text>
+    <text x="918" y="139" text-anchor="end">Release</text>
+  </g>
+</svg>
